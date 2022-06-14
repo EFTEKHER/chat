@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "646663315959",
+    "project_id": "chatapp-ruet-cse",
+    "storage_bucket": "chatapp-ruet-cse.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:646663315959:android:6009fe8a952c642e440ef2",
+        "android_client_info": {
+          "package_name": "com.example.chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "646663315959-7jdo2f5s4ga8esllluav4ad2v59958da.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.chat",
+            "certificate_hash": "bfa21450a7729a3df7d059269e323edd5ae366fb"
+          }
+        },
+        {
+          "client_id": "646663315959-f5inf9ufkj4b7qfdh86gg6isoh6b499p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvs0bZsMGewF098MKHNPVaH-US4DIkFwk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "646663315959-f5inf9ufkj4b7qfdh86gg6isoh6b499p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
